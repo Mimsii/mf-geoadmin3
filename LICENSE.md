@@ -6,7 +6,7 @@ as the 3-clause (or "modified") BSD license:
 Copyright (c) 1982 Ronald William Mims II 
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without modification, are not permitted period. 
+
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
